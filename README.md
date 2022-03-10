@@ -2,12 +2,13 @@
 
 This repo contains the code for reproducing the results in our paper *Recurrent Vision Transformer for Solving Visual Reasoning Problems*, accepted at ICIAP 2021 [preprint](https://arxiv.org/abs/2111.14576).
 
-Attentions:
-<img alt="Attention Visualization" src="figures/attentions.png">
-
-Attention over timesteps:
-<img alt="Attention Visualization" src="figures/timesteps.png">
-
+<table>
+    <tr><td>Attention visualization:</td>
+        <td align="center"><img alt="Attention Visualization" src="figures/attentions.png" width="80%"></td></tr>
+    <tr><td>Attention over timesteps:</td>
+        <td align="center"><img alt="Attention Visualization" src="figures/timesteps.png" width="80%"></td></tr>
+</table>
+    
 ## Setup
 Clone the repo and move into it:
 ```
